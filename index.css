@@ -1,0 +1,33 @@
+.area-text {
+  margin-top: 50px;
+}
+
+.container-fluid img {
+  max-height: 5vh;
+  margin: 5px 5px 10px 2px;
+}
+.header-titulo {
+  margin: 1rem 2rem;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  color: #333;
+}
+
+.container-fluid .form-button input:focus,
+.container-fluid .form-button input:hover {
+  outline: none;
+  box-shadow: 0 0 10px 0 rgba(1, 41, 112, 0.15);
+  border: 2px solid rgba(1, 41, 112, 0.3);
+}
+
+.container-fluid .form-button button {
+  border: 0;
+  padding: 0;
+  margin-left: -30px;
+  background: none;
+}
+.container img {
+  width: 60rem;
+  align: center;
+}
