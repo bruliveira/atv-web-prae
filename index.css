@@ -28,6 +28,5 @@
   background: none;
 }
 .container img {
-  width: 60rem;
-  align: center;
+  max-width: 100%;
 }
