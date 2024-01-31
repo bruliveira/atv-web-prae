@@ -30,3 +30,9 @@
 .container img {
   max-width: 100%;
 }
+
+.card {
+  margin: 5rem 2rem 1rem 4rem;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

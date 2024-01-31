@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Atendimento Pedagógico",
+        "descricao": "O atendimento pedagógico é uma estratégia de orientação aos estudantes da graduação que objetiva auxiliar o discente no processo de aprendizagem por meio de um planejamento individual no desenvolvimento de suas competências para estudar, buscando favorecer a aquisição de estratégias e hábitos de estudo adequados às exigências atuais acadêmicas e de preparação profissional.",
+        "publico": "Estudantes",
+        "setorResponsavel": "Pró-Reitoria de Assuntos Estudantis",
+        "telefone": "(88) 3221-9360",
+        "email": "pedagogia.prae@ufca.edu.br"
+    },
+    {
+        "titulo": "Atendimento Psicológico",
+        "descricao": "O Serviço de Atendimento Psicológico abrange  Aconselhamento Psicológico; Escuta Psicológica: ; Aconselhamento Profissional;Grupos de promoção à saúde mental.",
+        "publico": "Estudantes",
+        "setorResponsavel": "Pró-Reitoria de Assuntos Estudantis",
+        "telefone": "(88) 3221-9365",
+        "email": "psicologiabarbalha.prae@ufca.edu.br,  psicologiajuazeiro.prae@ufca.edu.br"
+    },
+    {
+        "titulo": "Atendimento Psiquiátrico",
+        "descricao": "O setor de Psiquiatria oferece aos estudantes de graduação da UFCA atendimento clínico em Psiquiatria",
+        "publico": "Estudantes",
+        "setorResponsavel": "Pró-Reitoria de Assuntos Estudantis",
+        "telefone": "(88) 3221 9363",
+        "email": ""
+    },{
+        "titulo": "Auxílios Estudantis",
+        "descricao": "Em consonância com o Decreto 7.234, a PRAE oferta programas voltados para os estudantes matriculados nos cursos de graduação da UFCA, em comprovada situação de vulnerabilidade socioeconômica. ",
+        "publico": "Estudantes",
+        "setorResponsavel": "Pró-Reitoria de Assuntos Estudantis",
+        "telefone": "(88) 3221-9360",
+        "email": "servicosocial.dae@ufca.edu.br"
+    },
+    {
+        "titulo": "Bolsa Permanência",
+        "descricao": "É uma política pública voltada a concessão de auxílio financeiro aos estudantes, sobretudo, aos estudantes quilombolas, indígenas e em situação de vulnerabilidade socioeconômica matriculados em instituições federais de ensino superior e assim contribuir para a permanência e a diplomação dos beneficiados.",
+        "publico": "Estudantes",
+        "setorResponsavel": "Pró-Reitoria de Assuntos Estudantis",
+        "telefone": "(88) 3221-9365",
+        "email": "servicosocial.dae@ufca.edu.br"
+    },
+    {
+        "titulo": "Qualidade de Vida do Estudante",
+        "descricao": "A Divisão de Qualidade de Vida do Estudante é responsável por desenvolver ações destinadas à proteção, promoção e prevenção de agravos à saúde e à qualidade de vida dos estudantes da Universidade Federal do Cariri (UFCA).",
+        "publico": "Estudantes",
+        "setorResponsavel": "Pró-Reitoria de Assuntos Estudantis",
+        "telefone": "(88) 3221-9369",
+        "email": "saude.prae@ufca.edu.br"
+    },
+    {
+        "titulo": "Refeitório Universitário",
+        "descricao": "O Refeitório Universitário (RU) tem a finalidade de fornecer refeições balanceadas, higiênicas e de baixo custo à comunidade universitária. O órgão atende em três unidades acadêmicas: Juazeiro do Norte, Barbalha e Crato. É administrado pela Pró-Reitoria de Assuntos Estudantis (Prae), sob a responsabilidade da Coordenadoria do RU.",
+        "publico": "Estudantes",
+        "setorResponsavel": "Pró-Reitoria de Assuntos Estudantis",
+        "telefone": "(88) 3221 9366",
+        "email": "ru.prae@ufca.edu.br"
+    }
+]
